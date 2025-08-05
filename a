@@ -1,0 +1,23 @@
+[33mcommit 9763439750b87aba56af2cb8bf318c6ad75068b3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Juan Lopez <jcamlopezmarin@gmail.com>
+Date:   Wed Jul 30 19:57:23 2025 -0500
+
+    Agregue una nueva descripcion al archivo2
+
+[33mcommit 93e16a579253804c75ba3d4fdfb3f881d6476769[m
+Author: Juan Lopez <jcamlopezmarin@gmail.com>
+Date:   Wed Jul 30 19:55:12 2025 -0500
+
+    Agregue un saludo al archivo 2
+
+[33mcommit fb633e36e8eaed76caace5973e88cd5b565ab7b9[m
+Author: Juan Lopez <jcamlopezmarin@gmail.com>
+Date:   Wed Jul 30 19:52:10 2025 -0500
+
+    Prueba numero 1, en la cual creamos 3 archivos
+
+[33mcommit f6ae172f53282cac8c0993760bbcca9f56c1dfb5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Juan Camilo Lopez Marin <137421059+JcamLopez@users.noreply.github.com>
+Date:   Wed Jul 30 19:34:23 2025 -0500
+
+    Initial commit
